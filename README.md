@@ -15,12 +15,11 @@
 ### 🏮 The Architect's Codex
 > *I turn caffeine ☕ into scalable systems and late nights into breakthroughs.*
 
-| 🛠️ Domain | 🚀 Focus Area |
+| 🛠️ Domain | 🚀 Live Links |
 | :--- | :--- |
 | **Current Mission** | AI/ML, System Design, Advanced FastAPI & Flutter |
-| **Open For** | Open Source Python & Backend Collaborations |
-| **Portfolio** | [willupdatesoon.combro](http://willupdatesoon.combro) |
-| **Credentials** | [Professional Resume](http://resumelinkheresoon.com) |
+| **Portfolio** | [**View Experience**](https://www.awwwards.com/sites/ravi-klaassens) |
+| **Resume** | [**Download Credentials**](https://warrior-zone.github.io/) |
 
 ---
 
@@ -58,8 +57,6 @@
 
 ---
 
-### 📊 SYSTEM PERFORMANCE
-
 ### 🚀 PROJECT SHOWREEL
 <p align="center">
   <img src="https://img.shields.io/badge/EcoChain-Waste%20Management%20App-00D1FF?style=for-the-badge&logo=flutter" />
@@ -71,7 +68,7 @@
 
 ### 🕹️ CONTRIBUTION JOURNEY
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skybot01&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=skybot01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skybot01&layout=compact&theme=tokyonight&hide_border=true" width="44%" />
 </p>
 
@@ -85,6 +82,8 @@
 - [ ] Deploy **EcoChain** V1.0 🌍
 - [ ] Open Source **FastAPI** Boilerplate ⚡
 - [ ] Achieve **Codeforces** Specialist Rank 🏅
+
+---
 
 ### 🌐 Let's Sync
 <p align="center">
