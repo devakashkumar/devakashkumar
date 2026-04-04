@@ -66,15 +66,26 @@
 
 ---
 
-### 🕹️ CONTRIBUTION JOURNEY
+---
+
+### 🕹️ SYSTEM ACTIVITY
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skybot01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skybot01&layout=compact&theme=tokyonight&hide_border=true" width="44%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/skybot01/skybot01/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://img.shields.io/badge/Current%20Status-Building%20Greatness-00D1FF?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Contributions-Incoming-FF6C37?style=for-the-badge&logo=git" />
 </p>
+
+---
+
+### 🛠️ STACK OVERVIEW
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,dart,js,fastapi,flutter,firebase,postgres,linux,git,postman,pytorch" />
+</p>
+
+---
 
 ---
 
