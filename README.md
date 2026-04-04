@@ -60,8 +60,8 @@
 ### 🚀 PROJECT SHOWREEL
 <p align="center">
   <img src="https://img.shields.io/badge/EcoChain-Waste%20Management%20App-00D1FF?style=for-the-badge&logo=flutter" />
-  <img src="https://img.shields.io/badge/Campus%20Management-FF6C37?style=for-the-badge&logo=fastapi" />
-  <img src="https://img.shields.io/badge/Tournament--Bot-Gaming%20API-3776AB?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Campus%20Management%20OS-FF6C37?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/WARRIOR--ZONE%20API-3776AB?style=for-the-badge&logo=python" />
 </p>
 
 ---
