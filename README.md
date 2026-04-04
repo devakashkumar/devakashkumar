@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=Akash%20Kumar&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+<img src="https://capsule-render.vercel.app/render?type=soft&color=005571&height=200&section=header&text=Akash%20Kumar&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
 ### ⚡ Transforming Logic into Scalable Architecture ⚡
 **Python Developer | AI/ML Architect | Backend Specialist**
@@ -53,14 +53,6 @@
       <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
     </td>
   </tr>
-  <tr>
-    <td align="center" width="200"><strong>Dev Environment</strong></td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-      <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-    </td>
-  </tr>
 </table>
 
 ---
@@ -68,12 +60,8 @@
 ### 📊 Performance Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=skybot01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skybot01&layout=compact&theme=dracula&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=skybot01&theme=dracula&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=skybot01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skybot01&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -83,9 +71,8 @@
 <a href="https://linkedin.com/in/akashkumardev"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" height="35" /></a>
 <a href="https://instagram.com/sudo_sky"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" height="35" /></a>
 <a href="mailto:theprimeskyy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" height="35" /></a>
-<a href="https://codeforces.com/profile/skybot01"><img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=Codeforces&logoColor=white" height="35" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/render?type=waving&color=005571&height=100&section=footer" width="100%"/>
 
 </div>
