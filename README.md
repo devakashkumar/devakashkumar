@@ -68,7 +68,7 @@
 
 ---
 
-### 🕹️ SYSTEM ACTIVITY
+###  SYSTEM ACTIVITY
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
 </p>
@@ -80,7 +80,7 @@
 
 ---
 
-### 🛠️ STACK OVERVIEW
+### STACK OVERVIEW
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,cpp,dart,js,fastapi,flutter,firebase,postgres,linux,git,postman,pytorch" />
 </p>
@@ -90,9 +90,9 @@
 ---
 
 ### 🏆 UPCOMING MILESTONES
-- [ ] Deploy **EcoChain** V1.0 🌍
+- [ ] Deploy **CampusOS** with all the working features.
 - [ ] Open Source **FastAPI** Boilerplate ⚡
-- [ ] Achieve **Codeforces** Specialist Rank 🏅
+- [ ] Achieve **Codeforces** Specialist Rank 
 
 ---
 
