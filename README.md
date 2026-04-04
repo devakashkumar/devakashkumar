@@ -58,17 +58,21 @@
 
 ---
 
-### 📊 Performance Analytics
+### 📊 SYSTEM PERFORMANCE
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=skybot01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skybot01&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=skybot01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Akash's Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skybot01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="44%" />
 </p>
 
-### 🏆 Achievements & Milestones
-<img src="https://github-profile-trophy.vercel.app/?username=skybot01&theme=tokyonight&no-bg=true&margin-w=15&column=4" width="100%" />
+### 🏆 ACHIEVEMENT LOG
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=skybot01&theme=tokyonight&no-bg=true&margin-w=15" width="100%" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=skybot01&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
 
 ### 🌐 Let's Sync
 <p align="center">
