@@ -60,19 +60,31 @@
 
 ### 📊 SYSTEM PERFORMANCE
 
+### 🚀 PROJECT SHOWREEL
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skybot01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Akash's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skybot01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="44%" />
+  <img src="https://img.shields.io/badge/EcoChain-Waste%20Management%20App-00D1FF?style=for-the-badge&logo=flutter" />
+  <img src="https://img.shields.io/badge/EventHub-Campus%20Management-FF6C37?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/Tournament--Bot-Gaming%20API-3776AB?style=for-the-badge&logo=python" />
 </p>
 
-### 🏆 ACHIEVEMENT LOG
+---
+
+### 🕹️ CONTRIBUTION JOURNEY
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=skybot01&theme=tokyonight&no-bg=true&margin-w=15" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=skybot01&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skybot01&layout=compact&theme=tokyonight&hide_border=true" width="44%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=skybot01&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+  <img src="https://raw.githubusercontent.com/skybot01/skybot01/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
+
+---
+
+### 🏆 UPCOMING MILESTONES
+- [ ] Deploy **EcoChain** V1.0 🌍
+- [ ] Open Source **FastAPI** Boilerplate ⚡
+- [ ] Achieve **Codeforces** Specialist Rank 🏅
 
 ### 🌐 Let's Sync
 <p align="center">
