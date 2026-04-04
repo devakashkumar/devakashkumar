@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=soft&color=005571&height=200&section=header&text=Akash%20Kumar&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+<img src="https://k60.kn3.net/taringa/8/5/4/E/B/E/vagonettas/680.gif" width="100%" height="2px" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=00D1FF&center=true&vCenter=true&width=1000&height=100&lines=AKASH+KUMAR" alt="Name" />
 
 ### ⚡ Transforming Logic into Scalable Architecture ⚡
 **Python Developer | AI/ML Architect | Backend Specialist**
@@ -64,15 +65,18 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skybot01&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+### 🏆 Achievements & Milestones
+<img src="https://github-profile-trophy.vercel.app/?username=skybot01&theme=tokyonight&no-bg=true&margin-w=15&column=4" width="100%" />
+
 ---
 
 ### 🌐 Let's Sync
 <p align="center">
-<a href="https://linkedin.com/in/akashkumardev"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" height="35" /></a>
-<a href="https://instagram.com/sudo_sky"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" height="35" /></a>
-<a href="mailto:theprimeskyy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" height="35" /></a>
+<a href="https://linkedin.com/in/akashkumardev"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
+<a href="https://instagram.com/sudo_sky"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+<a href="mailto:theprimeskyy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/render?type=waving&color=005571&height=100&section=footer" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 </div>
