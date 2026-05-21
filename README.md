@@ -19,7 +19,7 @@
 | :--- | :--- |
 | **Current Mission** | AI/ML, System Design, Advanced FastAPI & Flutter |
 | **Portfolio** | [**View Experience**](https://devakashkumar.netlify.app/) |
-| **Resume** | [**Download Credentials**](https://github.com/devakashkumar/devakashkumar/raw/main/resume/resume.pdf) |
+| **Resume** | [**Download Credentials**](https://github.com/devakashkumar/devakashkumar/raw/main/resume/Akash_Kumar_Resume.pdf) |
 
 ---
 
