@@ -7,7 +7,7 @@
 **Python Developer | AI/ML Architect | Backend Specialist**
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=43D3FF&center=true&vCenter=true&width=500&lines=System+Design+%26+Optimization;FastAPI+Microservices;Cross-Platform+Flutter+Apps;Deep+Learning+%26+Computer+Vision" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=43D3FF&center=true&vCenter=true&width=500&lines=System+Design+%26+Optimization;FastAPI+Microserv[...]
 </p>
 
 ---
@@ -19,7 +19,7 @@
 | :--- | :--- |
 | **Current Mission** | AI/ML, System Design, Advanced FastAPI & Flutter |
 | **Portfolio** | [**View Experience**](https://devakashkumar.netlify.app/) |
-| **Resume** | [**Download Credentials**](https://devakashkumar.netlify.app/) |
+| **Resume** | [**Download Credentials**](https://github.com/devakashkumar/devakashkumar/raw/main/resume/resume.pdf) |
 
 ---
 
