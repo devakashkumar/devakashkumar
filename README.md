@@ -18,8 +18,8 @@
 | 🛠️ Domain | 🚀 Live Links |
 | :--- | :--- |
 | **Current Mission** | AI/ML, System Design, Advanced FastAPI & Flutter |
-| **Portfolio** | [**View Experience**](https://www.awwwards.com/sites/ravi-klaassens) |
-| **Resume** | [**Download Credentials**](https://warrior-zone.github.io/) |
+| **Portfolio** | [**View Experience**](https://devakashkumar.netlify.app/) |
+| **Resume** | [**Download Credentials**](https://devakashkumar.netlify.app/) |
 
 ---
 
