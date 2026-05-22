@@ -15,7 +15,7 @@
 ### 🏮 The Architect's Codex
 > *I turn caffeine ☕ into scalable systems and late nights into breakthroughs.*
 
-
+---
 
 | **Current Mission** | AI/ML, System Design, Advanced FastAPI & Flutter |
 
