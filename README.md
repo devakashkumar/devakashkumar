@@ -60,15 +60,6 @@
 
 ---
 
-### 🚀 PROJECT SHOWREEL
-<p align="center">
-  <img src="https://img.shields.io/badge/CampusOS-Mobile%20Workflow%20App-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/EcoChain-Smart%20Waste%20Management-00D1FF?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Warrior--Zone-Tournament%20Web%20Design-FF6C37?style=for-the-badge&logo=html5&logoColor=white" />
-</p>
-
----
-
 ###  SYSTEM ACTIVITY
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
