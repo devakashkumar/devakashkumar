@@ -1,28 +1,42 @@
 <div align="center">
 
 <img src="https://k60.kn3.net/taringa/8/5/4/E/B/E/vagonettas/680.gif" width="100%" height="2px" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=00D1FF&center=true&vCenter=true&width=1000&height=100&lines=AKASH+KUMAR" alt="Name" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=00D1FF&center=true&vCenter=true&width=1000&height=100&lines=AKASH+KUMAR" alt="Akash Kumar" />
 
 ### ⚡ Transforming Logic into Scalable Architecture ⚡
-**Python Developer | AI/ML Architect | Backend Specialist**
+
+**Python Developer | AI/ML Enthusiast | Backend Developer**
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=43D3FF&center=true&vCenter=true&width=500&lines=System+Design+%26+Optimization;FastAPI+Microserv[...]
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=43D3FF&center=true&vCenter=true&width=700&lines=Python+Developer;FastAPI+%26+Backend+Systems;AI%2FML+Explorer;Flutter+App+Developer;Building+Scalable+Products" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🏮 The Architect's Codex
+
 > *I turn caffeine ☕ into scalable systems and late nights into breakthroughs.*
 
 ---
 
-| **Current Mission** | AI/ML, System Design, Advanced FastAPI & Flutter |
+### 🎯 Current Mission
 
---- 
+| Focus Area | Status |
+|---|---|
+| AI/ML | Learning, building, experimenting |
+| FastAPI | Building APIs and backend systems |
+| Flutter | Developing cross-platform apps |
+| System Design | Improving scalable architecture skills |
 
-| **Portfolio** | [**View Experience**](https://devakashkumar.netlify.app/) |
-| **Resume** | [**Download Credentials**](https://github.com/devakashkumar/devakashkumar/raw/main/resume/Akash_Kumar_Resume.pdf) |
+---
+
+### 🚀 Launchpad
+
+| Resource | Link |
+|---|---|
+| 🌐 **Portfolio** | [**View Portfolio**](https://devakashkumar.netlify.app/) |
+| 📄 **Resume** | [**Download Resume**](https://github.com/devakashkumar/devakashkumar/raw/main/resume/Akash_Kumar_Resume.pdf) |
 
 ---
 
@@ -48,7 +62,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="200"><strong>Intelligence (AI/ML)</strong></td>
+    <td align="center" width="200"><strong>AI/ML Stack</strong></td>
     <td align="center">
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -60,7 +74,16 @@
 
 ---
 
-###  SYSTEM ACTIVITY
+### ⚙️ Stack Overview
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,dart,js,fastapi,flutter,firebase,postgres,linux,git,github,postman,pytorch,tensorflow,opencv" />
+</p>
+
+---
+
+### 📊 System Activity
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
 </p>
@@ -72,27 +95,30 @@
 
 ---
 
-### STACK OVERVIEW
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,dart,js,fastapi,flutter,firebase,postgres,linux,git,postman,pytorch" />
-</p>
+### 🏆 Upcoming Milestones
 
-
----
-
-### 🏆 UPCOMING MILESTONES
-- [ ] Deploy **CampusOS** with all the working features.
-- [ ] Open Source **FastAPI** Boilerplate ⚡
-- [ ] Achieve **Codeforces** Specialist Rank 
+- [ ] Deploy **CampusOS** with all working features.
+- [ ] Open source a production-ready **FastAPI Boilerplate**.
+- [ ] Build more AI/ML + Computer Vision projects.
+- [ ] Achieve **Codeforces Specialist** rank.
 
 ---
 
 ### 🌐 Let's Sync
+
 <p align="center">
-<a href="https://linkedin.com/in/akashkumardev"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
-<a href="https://instagram.com/sudo_sky"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-<a href="mailto:theprimeskyy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/akashkumardev">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/sudo_sky">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+  <a href="mailto:theprimeskyy@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a>
 </p>
+
+---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
