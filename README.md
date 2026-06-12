@@ -279,19 +279,7 @@ Designed and shipped backend systems for client projects and personal products. 
 
 <div align="center">
 
-## ◈ GitHub Trophies
 
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=devakashkumar&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7&title_color=A855F7" width="100%" />
-
-</div>
-
----
-
-<div align="center">
 
 ## ◈ Contribution Activity
 
