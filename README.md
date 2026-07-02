@@ -39,7 +39,7 @@ I am a software engineer focused on building scalable backend systems, intellige
 
 On the AI/ML side, I actively work with PyTorch, TensorFlow, and OpenCV — building computer vision pipelines, experimenting with deep learning architectures, and integrating intelligent features into full-stack applications. I think of AI not as a novelty layer, but as a core engineering primitive.
 
-I also build cross-platform mobile applications using Flutter and Dart, keeping user experience tight and performance non-negotiable. My philosophy is product-first: every system I build is designed to ship, scale, and survive production.
+My philosophy is product-first: every system I build is designed to ship, scale, and survive production.
 
 Currently pursuing competitive programming on Codeforces with a target of Specialist rank, and working toward open-sourcing my internal tooling.
 
@@ -101,30 +101,45 @@ Currently pursuing competitive programming on Codeforces with a target of Specia
 
 <div align="center">
 
+
+Here’s your **updated “Featured Projects” section only** (clean, consistent, and aligned with your current direction — no Flutter, no CampusOS):
+
+---
+
 ## ◈ Featured Projects
 
-</div>
+### ◈ Sentinel PPE AI — Real-Time Safety Detection System
 
-<details>
-<summary><strong>◈ CampusOS — Unified Campus Management Platform</strong></summary>
+A computer vision system designed to detect Personal Protective Equipment (helmet, vest, etc.) in real-time industrial environments using deep learning models.
 
-<br/>
+| Attribute    | Details                                                         |
+| ------------ | --------------------------------------------------------------- |
+| **Stack**    | Python · YOLO · OpenCV · PyTorch                                |
+| **Domain**   | Object Detection · Industrial Safety AI                         |
+| **Features** | Real-time PPE detection from video streams                      |
+| **Pipeline** | Dataset preparation → model training → inference optimization   |
+| **Use Case** | Workplace safety monitoring in factories and construction sites |
+| **Status**   | Actively trained and optimized                                  |
 
-CampusOS is a full-stack campus management system built to unify student, faculty, and administrative workflows into a single, cohesive product. It handles scheduling, resource allocation, announcements, and real-time communication — all behind a FastAPI backend with a Flutter frontend for cross-platform access.
+Built to enforce real-world safety compliance using real-time vision systems that run directly on video feeds.
 
-| Attribute | Details |
-|---|---|
-| **Stack** | Python · FastAPI · Flutter · Dart · PostgreSQL · Firebase |
-| **Architecture** | Microservice-oriented REST backend · Real-time notifications |
-| **Scale** | Designed for multi-department, multi-role deployments |
-| **Security** | JWT-based auth · Role-based access control (RBAC) |
-| **Performance** | Async FastAPI endpoints · Optimized query layers |
-| **Impact** | Replacing fragmented admin tools with one unified platform |
-| **Status** | Active Development — production deployment in progress |
+---
 
-The core motivation behind CampusOS is that every institution runs on a patchwork of disconnected tools. CampusOS consolidates that into a product with clear data ownership, auditability, and a mobile-first experience.
+### ◈ Fire & Smoke Detection System — Real-Time Hazard AI
 
-</details>
+A deep learning-based computer vision system that detects fire and smoke from CCTV/video streams for early disaster warning and prevention.
+
+| Attribute        | Details                                                        |
+| ---------------- | -------------------------------------------------------------- |
+| **Stack**        | Python · OpenCV · PyTorch · CNN Models                         |
+| **Domain**       | Computer Vision · Emergency Detection Systems                  |
+| **Features**     | Fire and smoke detection from live or recorded video           |
+| **Optimization** | Frame-level inference tuning for real-time alerts              |
+| **Use Case**     | Smart surveillance, disaster prevention, industrial monitoring |
+| **Status**       | Experimental → Production pipeline in progress                 |
+
+Designed for early hazard detection where even a few seconds of delay can matter.
+
 
 <details>
 <summary><strong>◈ FastAPI Boilerplate — Production-Ready Backend Starter</strong></summary>
