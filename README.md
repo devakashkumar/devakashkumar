@@ -49,6 +49,17 @@ Currently pursuing competitive programming on Codeforces with a target of Specia
 
 <div align="center">
 
+### 🚀 [Explore My Interactive Portfolio](https://devakashkumar.netlify.app/) 🚀
+*Dive deeper into my live demos, system architectures, and complete project history.*
+
+[![View Portfolio](https://img.shields.io/badge/View_Full_Portfolio-devakashkumar.netlify.app-A855F7?style=for-the-badge&logo=netlify&logoColor=white)](https://devakashkumar.netlify.app/)
+
+</div>
+
+---
+
+<div align="center">
+
 ## ◈ Tech Stack
 
 </div>
@@ -195,16 +206,16 @@ A zero-bloat, production-ready FastAPI boilerplate engineered for rapid backend 
 
 </div>
 
-**Python Backend Developer — Freelance / Independent**
+**Independent Developer — Python, Backend & AI/ML**
 *2023 – Present*
 
-Designed and shipped backend systems for client projects and personal products. Worked across the full lifecycle — requirements, architecture, implementation, and deployment.
+Focused on architecting scalable backend solutions and building end-to-end AI/ML systems. Developing a strong foundation in system design, API development, and computer vision pipelines through rigorous, production-grade independent projects.
 
-- Architected REST APIs using FastAPI with async endpoint design and clean layered architecture
-- Integrated PostgreSQL and Firebase for relational and real-time data requirements
-- Implemented JWT-based authentication and role-based access control across multiple projects
-- Built and deployed Flutter mobile applications connected to FastAPI backends
-- Explored AI/ML integration — serving trained models via REST inference endpoints
+- Architecting high-performance REST APIs using FastAPI with async endpoint design and clean layered architecture
+- Designing database schemas and integrating PostgreSQL and Firebase for relational and real-time data management
+- Implementing robust JWT-based authentication and role-based access control (RBAC) systems
+- Building and training computer vision models (YOLO, OpenCV, PyTorch) for real-time object detection and hazard monitoring
+- Bridging AI and Backend by serving trained ML models via REST inference endpoints for full-stack integration
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
@@ -225,10 +236,10 @@ Designed and shipped backend systems for client projects and personal products. 
 | Recognition | Details |
 |---|---|
 | 🎯 Codeforces Competitor | Active competitive programmer, targeting Specialist rank |
-| 🚀 AI Systems Builder | Independently shipped FireWatch and Sentinel PPE AI |
-| 🧠 AI/ML Practitioner | Built and deployed computer vision and deep learning models |
-| 🌐 Cross-Platform Developer | Delivered production Flutter apps with FastAPI backends |
-| 📦 Open Source Contributor | Planned release of FastAPI Boilerplate for the community |
+| 🚀 AI Systems Builder | Independently architected and built FireWatch and Sentinel PPE AI |
+| 🧠 AI/ML Practitioner | Developed and integrated computer vision and deep learning models |
+| 🌐 API & Backend Dev | Designed and structured robust REST APIs with FastAPI |
+| 📦 Open Source Focus | Planning release of FastAPI Boilerplate for the developer community |
 
 </div>
 
