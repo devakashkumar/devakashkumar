@@ -101,85 +101,90 @@ Currently pursuing competitive programming on Codeforces with a target of Specia
 
 <div align="center">
 
-
-Here’s your **updated “Featured Projects” section only** (clean, consistent, and aligned with your current direction — no Flutter, no CampusOS):
-
----
-
 ## ◈ Featured Projects
 
-### ◈ Sentinel PPE AI — Real-Time Safety Detection System
+</div>
 
-A computer vision system designed to detect Personal Protective Equipment (helmet, vest, etc.) in real-time industrial environments using deep learning models.
+### ◈ FireWatch — Integrated Wildfire Monitoring Platform
+A comprehensive wildfire monitoring platform combining deep learning computer vision with global satellite data. It identifies fire threats from live camera streams and cross-references them with NASA FIRMS hotspot data for severe hazard detection.
 
-| Attribute    | Details                                                         |
-| ------------ | --------------------------------------------------------------- |
-| **Stack**    | Python · YOLO · OpenCV · PyTorch                                |
-| **Domain**   | Object Detection · Industrial Safety AI                         |
-| **Features** | Real-time PPE detection from video streams                      |
-| **Pipeline** | Dataset preparation → model training → inference optimization   |
-| **Use Case** | Workplace safety monitoring in factories and construction sites |
-| **Status**   | Actively trained and optimized                                  |
-
-Built to enforce real-world safety compliance using real-time vision systems that run directly on video feeds.
+| Attribute    | Details                                                                                         |
+| ------------ | ----------------------------------------------------------------------------------------------- |
+| **Stack**    | Python · YOLOv8 · FastAPI · NASA FIRMS API · Leaflet                                            |
+| **Domain**   | AI/ML · Geographic Information Systems (GIS) · Backend API                                      |
+| **Features** | Live inference, interactive mapping, severity-based alerts, persistent history, CSV exports, webhooks |
+| **Repository** | [devakashkumar/fire-watch](https://github.com/devakashkumar/fire-watch)                       |
 
 ---
 
-### ◈ Fire & Smoke Detection System — Real-Time Hazard AI
+### ◈ Sentinel PPE AI — Real-Time Safety Detection System
+A robust computer vision system engineered to enforce workplace compliance by detecting Personal Protective Equipment (safety helmets, reflective vests) in real-time industrial environments. 
 
-A deep learning-based computer vision system that detects fire and smoke from CCTV/video streams for early disaster warning and prevention.
+| Attribute    | Details                                                                                         |
+| ------------ | ----------------------------------------------------------------------------------------------- |
+| **Stack**    | Python · YOLO · OpenCV                                                                          |
+| **Domain**   | Object Detection · Industrial Safety AI                                                         |
+| **Features** | Live FPS monitoring, confidence score overlays, automatic processed video export                |
+| **Repository** | [devakashkumar/sentinel-ppe](https://github.com/devakashkumar/sentinel-ppe)                   |
 
-| Attribute        | Details                                                        |
-| ---------------- | -------------------------------------------------------------- |
-| **Stack**        | Python · OpenCV · PyTorch · CNN Models                         |
-| **Domain**       | Computer Vision · Emergency Detection Systems                  |
-| **Features**     | Fire and smoke detection from live or recorded video           |
-| **Optimization** | Frame-level inference tuning for real-time alerts              |
-| **Use Case**     | Smart surveillance, disaster prevention, industrial monitoring |
-| **Status**       | Experimental → Production pipeline in progress                 |
+---
 
-Designed for early hazard detection where even a few seconds of delay can matter.
+### ◈ AI Parking Slot — Intelligent Occupancy Tracking
+A computer vision-based smart parking system that analyzes video footage to classify parking spaces as free or occupied, streamlining parking management.
 
-
-<details>
-<summary><strong>◈ FastAPI Boilerplate — Production-Ready Backend Starter</strong></summary>
+| Attribute    | Details                                                                                         |
+| ------------ | ----------------------------------------------------------------------------------------------- |
+| **Stack**    | Python · OpenCV · NumPy                                                                         |
+| **Domain**   | Computer Vision · Smart City Infrastructure                                                     |
+| **Features** | Manual slot annotation, polygon-based space mapping, real-time occupancy stats & availability   |
+| **Repository** | [devakashkumar/AI-parking-slot](https://github.com/devakashkumar/AI-parking-slot)             |
 
 <br/>
 
-A zero-bloat, production-ready FastAPI boilerplate engineered for rapid backend deployment. Includes authentication, database integration, structured logging, environment management, and Docker support — so teams can skip the setup phase and go straight to building features.
+<details>
+<summary><strong>◈ Fire & Smoke Detection System</strong></summary>
+<br/>
+A specialized deep learning toolkit that detects fire and smoke from CCTV streams, video files, or standard images to enable early disaster warning.
 
-| Attribute | Details |
-|---|---|
-| **Stack** | Python · FastAPI · PostgreSQL · SQLAlchemy · Docker |
-| **Architecture** | Layered architecture — routes, services, repositories |
-| **Security** | JWT + OAuth2 · Password hashing · Rate limiting hooks |
-| **Performance** | Async-first · Connection pooling · Pagination built-in |
-| **Developer UX** | Auto-docs via Swagger · Pre-commit hooks · Type-safe |
-| **Impact** | Reduces backend bootstrap time from days to minutes |
-| **Status** | Planned open-source release |
-
-The boilerplate is built from lessons learned shipping real products — no academic abstractions, no over-engineering. Every module earns its place.
-
+* **Stack:** Python · YOLOv8 · Roboflow
+* **Features:** Optimized video detection, visual confidence overlays, Roboflow cloud inference integration, utility scripts for weight downloads.
+* **Repository:** [devakashkumar/fire-smoke-detection](https://github.com/devakashkumar/fire-smoke-detection)
 </details>
 
 <details>
-<summary><strong>◈ Computer Vision Projects — AI/ML Experiments</strong></summary>
-
+<summary><strong>◈ Air-Writer — Gesture-Controlled Whiteboard</strong></summary>
 <br/>
+An interactive digital whiteboard that allows users to draw, erase, and interact with a canvas purely through hand movements captured by a webcam.
 
-A growing series of computer vision projects built with OpenCV, PyTorch, and TensorFlow — ranging from real-time object detection pipelines to image classification models and custom dataset experiments.
+* **Stack:** Python · OpenCV · MediaPipe · NumPy
+* **Features:** Gesture smoothing, dynamic color/brush adjustment, timestamped PNG exports, real-time hand tracking.
+* **Repository:** [devakashkumar/Air-writer](https://github.com/devakashkumar/Air-writer)
+</details>
 
-| Attribute | Details |
-|---|---|
-| **Stack** | Python · PyTorch · TensorFlow · OpenCV · Pandas |
-| **Domains** | Object detection · Image segmentation · Classification |
-| **Models** | CNN architectures · Transfer learning · Custom training loops |
-| **Data** | Custom datasets · Augmentation pipelines |
-| **Deployment** | FastAPI inference endpoints for select models |
-| **Status** | Ongoing — new experiments continuously added |
+<details>
+<summary><strong>◈ Hands-Free Interface (Gesture & Voice)</strong></summary>
+<br/>
+An accessibility-focused desktop control application that fuses real-time hand tracking with natural voice recognition to fully operate a computer.
 
-These projects represent systematic exploration — each one is a deliberate study of a concept, not just a tutorial clone.
+* **Stack:** Python · MediaPipe · OpenCV · SpeechRecognition · PyAutoGUI
+* **Features:** Gesture-based cursor manipulation (clicks/movement), voice-controlled app launching, media playback controls, cross-platform OS support.
+* **Repository:** [devakashkumar/Gesture-Voice-Controlled-interface](https://github.com/devakashkumar/Gesture-Voice-Controlled-interface)
+</details>
 
+<details>
+<summary><strong>◈ Student Management System (DBMS)</strong></summary>
+<br/>
+A classic CRUD-based student record management application designed to simplify administrative tasks through a clean graphical user interface.
+
+* **Stack:** Python · Tkinter · MySQL
+* **Features:** Add/View/Search/Update/Delete records, persistent MySQL database integration, streamlined UI.
+* **Repository:** [devakashkumar/StudentManagementSystem](https://github.com/devakashkumar/StudentManagementSystem)
+</details>
+
+<details>
+<summary><strong>◈ FastAPI Boilerplate — Production Backend Starter</strong></summary>
+<br/>
+A zero-bloat, production-ready FastAPI boilerplate engineered for rapid backend deployment. Includes layered architecture, JWT authentication, PostgreSQL integration, and Docker support. 
 </details>
 
 ---
@@ -294,8 +299,6 @@ Designed and shipped backend systems for client projects and personal products. 
 
 <div align="center">
 
-
-
 ## ◈ Contribution Activity
 
 </div>
@@ -354,32 +357,3 @@ current_focus:
     - AI/ML research and applied engineering roles
     - Open source collaboration on Python / FastAPI / ML projects
     - Freelance product builds
-```
-
----
-
-<div align="center">
-
-## ◈ Connect
-
-</div>
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-theprimeskyy%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:theprimeskyy@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-akashkumardev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akashkumardev)
-[![Instagram](https://img.shields.io/badge/Instagram-sudo__sky-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sudo_sky)
-[![GitHub](https://img.shields.io/badge/GitHub-devakashkumar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devakashkumar)
-[![Portfolio](https://img.shields.io/badge/Portfolio-devakashkumar.netlify.app-A855F7?style=for-the-badge&logo=netlify&logoColor=white)](https://devakashkumar.netlify.app/)
-
-</div>
-
----
-
-<div align="center">
-
-*"The best systems are invisible — until someone needs to scale them."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A5276,50:7D3C98,100:6C3483&height=120&section=footer" width="100%" />
-
-</div>
