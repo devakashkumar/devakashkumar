@@ -225,7 +225,7 @@ Designed and shipped backend systems for client projects and personal products. 
 | Recognition | Details |
 |---|---|
 | 🎯 Codeforces Competitor | Active competitive programmer, targeting Specialist rank |
-| 🚀 Full Stack Product Builder | Independently shipped CampusOS end-to-end |
+| 🚀 AI Systems Builder | Independently shipped FireWatch and Sentinel PPE AI |
 | 🧠 AI/ML Practitioner | Built and deployed computer vision and deep learning models |
 | 🌐 Cross-Platform Developer | Delivered production Flutter apps with FastAPI backends |
 | 📦 Open Source Contributor | Planned release of FastAPI Boilerplate for the community |
@@ -343,7 +343,7 @@ current_focus:
     - Competitive programming — data structures and algorithms (Codeforces)
 
   building:
-    - CampusOS — full-featured campus management platform
+    - FireWatch & Sentinel PPE AI — production-grade AI detection systems
     - FastAPI Boilerplate — production-ready open source backend starter
     - Computer vision experiments with PyTorch and OpenCV
 
