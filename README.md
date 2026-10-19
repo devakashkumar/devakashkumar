@@ -21,7 +21,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=devakashkumar&color=7D3C98&style=flat-square&label=Profile+Views)
+![Profile Views](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdevakashkumar&label=Profile%20Views&countColor=%237D3C98)
 ![GitHub Followers](https://img.shields.io/github/followers/devakashkumar?color=A855F7&style=flat-square&logo=github&label=Followers)
 ![GitHub Stars](https://img.shields.io/github/stars/devakashkumar?color=6C3483&style=flat-square&logo=github&label=Stars)
 
